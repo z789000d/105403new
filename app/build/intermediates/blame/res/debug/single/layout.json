@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_list.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_list.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/alertdialog_use.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/alertdialog_use.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/forgot.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/forgot.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/grid_item.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_new_url_next.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_new_url_next.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_main_view.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_main_view.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/state_info.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/state_info.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_join_next.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_join_next.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_forget.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_forget.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_join.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_join.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_web_list.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_web_list.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_showinwebview.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_showinwebview.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/main_next.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/main_next.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_showinwebview_next1.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_showinwebview_next1.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/register.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/register.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_show_in_web_view_next.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_show_in_web_view_next.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/layout/activity_new_url.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/layout/activity_new_url.xml"
+    }
+]

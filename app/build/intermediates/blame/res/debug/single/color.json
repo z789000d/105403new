@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/color/text_color.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/color/text_color.xml"
+    },
+    {
+        "merged": "/Users/wei/Downloads/105403-master/app/build/intermediates/res/merged/debug/color/color_text_view.xml",
+        "source": "/Users/wei/Downloads/105403-master/app/src/main/res/color/color_text_view.xml"
+    }
+]

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lin05"
+        android:layout_marginBottom="-20dp"
+        >
+
+        <ImageView
+            android:src="@drawable/title"
+            android:layout_width="450dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView2"
+            android:layout_weight="1"
+            android:layout_marginTop="-38dp"
+            />
+
+        <Button
+            android:background="@drawable/next"
+            android:layout_width="wrap_content"
+            android:layout_height="78dp"
+            android:id="@+id/button3"
+            android:layout_weight="1"
+            android:layout_marginTop="-1dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:id="@+id/li1"
+        android:layout_below="@+id/lin05"
+       >
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/txtsearch"
+            android:background="@drawable/search"
+            android:paddingStart="40dp"
+            />
+
+
+        <ListView android:id="@+id/listView1" android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+    </LinearLayout>
+
+</RelativeLayout>

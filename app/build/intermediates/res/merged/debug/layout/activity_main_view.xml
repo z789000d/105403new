@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.draggridview.MainView"
+
+    >
+
+    <ImageView
+        android:src="@drawable/homepagetitle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="400dp"
+        android:id="@+id/imageView" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout"
+        android:layout_marginTop="240dp"
+
+
+        >
+
+        <Button
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginLeft="80dp"
+            android:background="@drawable/add"
+            android:id="@+id/NewLayout"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/linearLayout" />
+
+        <Button
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_marginLeft="106dp"
+            android:background="@drawable/mystyle"
+            android:id="@+id/MyLayout"
+
+            android:layout_alignTop="@+id/NewLayout"
+            android:layout_centerHorizontal="true" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout"
+        >
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="65dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/t01"
+            android:background="@drawable/newword"
+            />
+        <TextView
+            android:layout_width="90dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="65dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/mystyleword"
+            android:layout_toRightOf="@+id/t01"
+            />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
